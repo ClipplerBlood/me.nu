@@ -8,8 +8,7 @@ A quick launch menu for Nushell.
 Just [Nushell](https://github.com/nushell/nushell)
 
 > **Warning**  
-> This doesn't work with Nushell 0.85.0
-> As of writing this (23/10/03) it requires building the latest nu version, after PR #10572
+> This requires nushell ^0.86.0
 > 
 > Using it with previous version is possible but requires editing the very last line of `me.nu`
 > Simply remove the `--env` flag in after the `do` command.  
